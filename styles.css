@@ -1,0 +1,115 @@
+body {
+    background-image: url("C:/Users/Pal/Desktop/Lc101/Unit 2/html-me-something/pic/wp4163040.png");
+    background-color: #071a3a;
+	background-repeat: no-repeat;
+	background-attachment: scroll
+    font-family: cursive;
+}
+
+div {
+    margin: auto;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    padding 10px;
+    border: 6px solid #030205;
+    background: rgba(128, 0, 0, .68);
+    height: 50%;
+    width: 80%;
+    border-radius: 25px;
+    color: #1B587C
+}
+
+footer {
+    font-size: 15px;
+    font-style: italic;
+    background: rgba(128, 0, 0, .25);
+    text-align: center;
+    color: #1B587C
+}
+
+footer a {
+    color: black;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: orange;
+}
+
+h1 {
+    font-size: 35px;
+    color: #1B587C;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    color: #1B587C;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 20px;
+    color: #1B587C;
+    font-weight: bold;
+    text-decoration: underline;
+    margin: 2px;
+}
+
+img {
+    width: 150px;
+    height: 100px;
+    margin: auto;
+    border: 3px solid #030205;
+    border-radius: 10px;
+}
+
+.arrow {
+    width: 100px;
+    height: 50px;
+    margin: auto;
+    border: 3px solid #030205
+    border-radius: 25px;
+}
+
+.clear {
+    width: 125px;
+    height: 100px;
+    margin: auto;
+    padding: 2px;
+    opacity: 0.0;
+}
+
+.im {
+    margin: auto;
+    padding: 10px;
+    border: 6px solid #030205;
+    height: 25%;
+    width: 42%;
+    border-radius: 25px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.word {
+    padding: 20px;
+}
+
+#LC {
+    width: 200px;
+    height: 100px;
+    margin: center;
+    border: 3px solid #030205
+}
